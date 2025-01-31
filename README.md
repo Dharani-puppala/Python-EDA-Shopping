@@ -46,22 +46,28 @@ This project involves performing Exploratory Data Analysis (EDA) on shopping dat
 
 ### **Plot 5: Marital Status vs. Amount**
 - **Step 1**: Created a count plot for Marital Status using Seaborn and labeled values.
+  ![Image](https://github.com/user-attachments/assets/d7dc4936-c0bc-4f5d-a158-5b8214630a7c)
 - **Step 2**: Generated a bar plot for Marital Status vs. Amount spent, applying `hue` for gender-based comparison.
+  ![Image](https://github.com/user-attachments/assets/8fcc1716-a61e-4dab-820c-79a4ab5d715c)
 - **Insight**: Married women have the highest purchasing power.
 
 ### **Plot 6: Occupation vs. Amount**
-- **Step 1**: Created a count plot for Occupation using Seaborn and labeled values.
+- **Step 1**: Created a count plot for Occupation using Seaborn and labeled values. 
+![Image](https://github.com/user-attachments/assets/4f1ec9d6-f490-4338-bc42-9040ce277984)
 - **Step 2**: Generated a bar plot for Occupation vs. Amount spent, sorting by descending Amount values.
+  ![Image](https://github.com/user-attachments/assets/a68ff71e-19db-4ee8-931d-47a854908781)
 - **Insight**: Most buyers work in **IT, Healthcare, and Aviation** sectors.
 
 ### **Plot 7: Product Category vs. Amount**
 - **Step 1**: Created a count plot for Product Category using Seaborn and labeled values.
+  ![Image](https://github.com/user-attachments/assets/2e472369-85a6-4db0-ada0-47a0c79c41a4)
 - **Step 2**: Generated a bar plot for Product Category vs. Amount spent, sorting by descending Amount values.
+  ![Image](https://github.com/user-attachments/assets/2e472369-85a6-4db0-ada0-47a0c79c41a4)
 - **Insight**: Most money is spent on **Clothing, Food, and Electronics**.
 
 ### **Plot 8: Product ID vs. Order (Top 10 Sold Products)**
-- **Step 1**: Created a count plot for Product ID using Seaborn and labeled values.
-- **Step 2**: Generated a bar plot for Product ID vs. Orders, sorting by descending Order values.
+- **Step 1**: Generated a bar plot for Product ID vs. Orders, sorting by descending Order values.
+  ![Image](https://github.com/user-attachments/assets/028265a9-63db-44ed-a73f-c0177df96bf7)
 - **Insight**: Most orders are placed for **P00265242, P00110942, P00237542**.
 
 ## **Key Insights**
