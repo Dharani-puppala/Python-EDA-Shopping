@@ -21,22 +21,27 @@ This project involves performing Exploratory Data Analysis (EDA) on shopping dat
 
 ### **Plot 1: Gender vs. Amount**
 - **Step 1**: Created a count plot for Gender using Seaborn, labeled values using `containers` and `bar_label`.
- ![Image](https://github.com/user-attachments/assets/5d11dea7-8ed9-4e4c-b990-4ffd999611e1)
+  ![Image](https://github.com/user-attachments/assets/c8f5546d-4a4a-45e3-a6f7-4c0a6b20403a)
 - **Step 2**: Generated a bar plot for Gender vs. Amount spent by grouping data and sorting it in descending order based on Amount values.
+  ![Image](https://github.com/user-attachments/assets/2e2d41bb-df4d-446c-853a-2e02e2294c97)
 - **Insight**: Most buyers are females, and their purchasing power is greater than males.
 
 ### **Plot 2: Age Group vs. Amount**
 - **Step 1**: Created a count plot for Age Group using Seaborn, labeled values.
+  ![Image](https://github.com/user-attachments/assets/49338c47-f246-4160-ad86-8992ac26f983)
 - **Step 2**: Generated a bar plot for Age Group vs. Amount spent by grouping data and sorting it in descending order based on Amount values.
+  ![Image](https://github.com/user-attachments/assets/57e2797a-37be-4a12-9718-256eee398fe6)
 - **Insight**: Most buyers are women aged 26-35, while men aged 36-45 have the highest purchasing power.
 
 ### **Plot 3: Total Number of Orders from Top 10 States**
 - **Step 1**: Created a bar plot for State vs. Number of Orders placed by grouping and sorting in descending order.
+  ![Image](https://github.com/user-attachments/assets/8ef8c166-4659-4f40-b80b-c3cf8b41ec53)
 - **Insight**: Most orders are placed from **Uttar Pradesh, Maharashtra, Karnataka**.
 
 ### **Plot 4: Total Amount/Sales from Top 10 States**
 - **Step 1**: Created a bar plot for State vs. Total Sales.
 - **Insight**: Highest sales are from **Uttar Pradesh, Maharashtra, Karnataka**.
+  ![Image](https://github.com/user-attachments/assets/6761d041-2e18-4bf1-badb-ccccb714dc8c)
 - **Observation**: Kerala is in the top 8 for order placements but not in top sales/profit generation.
 
 ### **Plot 5: Marital Status vs. Amount**
