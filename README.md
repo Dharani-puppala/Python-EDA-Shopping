@@ -62,7 +62,7 @@ This project involves performing Exploratory Data Analysis (EDA) on shopping dat
 - **Step 1**: Created a count plot for Product Category using Seaborn and labeled values.
   ![Image](https://github.com/user-attachments/assets/2e472369-85a6-4db0-ada0-47a0c79c41a4)
 - **Step 2**: Generated a bar plot for Product Category vs. Amount spent, sorting by descending Amount values.
-  ![Image](https://github.com/user-attachments/assets/2e472369-85a6-4db0-ada0-47a0c79c41a4)
+  ![Image](https://github.com/user-attachments/assets/98f85cb8-22d7-4df5-b173-e633bb2ac41e)
 - **Insight**: Most money is spent on **Clothing, Food, and Electronics**.
 
 ### **Plot 8: Product ID vs. Order (Top 10 Sold Products)**
