@@ -21,6 +21,7 @@ This project involves performing Exploratory Data Analysis (EDA) on shopping dat
 
 ### **Plot 1: Gender vs. Amount**
 - **Step 1**: Created a count plot for Gender using Seaborn, labeled values using `containers` and `bar_label`.
+- ![Image](https://github.com/user-attachments/assets/5d11dea7-8ed9-4e4c-b990-4ffd999611e1)
 - **Step 2**: Generated a bar plot for Gender vs. Amount spent by grouping data and sorting it in descending order based on Amount values.
 - **Insight**: Most buyers are females, and their purchasing power is greater than males.
 
