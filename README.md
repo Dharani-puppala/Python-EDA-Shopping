@@ -63,8 +63,9 @@ This project involves performing Exploratory Data Analysis (EDA) on shopping dat
 - Most purchases are made in **Clothing, Food, and Electronics** categories.
 
 ## **Technologies Used**
+-**Excel**(CSV file)
 - **Python** (NumPy, Pandas, Matplotlib, Seaborn)
 - **Data Visualization** (Seaborn, Matplotlib)
 - **Data Cleaning & Processing** (Pandas)
 
-This README provides a structured approach to conducting EDA on shopping data, summarizing key insights and visualization techniques.
+
