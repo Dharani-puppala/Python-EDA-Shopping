@@ -1,4 +1,5 @@
 # Exploratory Data Analysis (EDA) on Shopping Data 
+Python(Jupyter Notebook)
 
 ## Project Overview
 This project involves performing Exploratory Data Analysis (EDA) on shopping data using Python. The objective is to clean the data and generate visual insights to understand customer purchasing behavior.
